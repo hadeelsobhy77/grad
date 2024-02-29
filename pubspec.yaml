@@ -1,0 +1,88 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+   sdk: flutter
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/360_f_531626867_4gtnewysbozsrhs6zhkjfqff5mzbwngz1.png
+    - assets/images/arrow3.svg
+    - assets/images/B63e061e3e62fd5ff24876bb53f251fc2.png
+    - assets/images/Istockphoto1161576679612x6122.png
+    - assets/images/Istockphoto1492322467612x6121.png
+    - assets/images/Pixlrimagegeneratord6f74a3178164f158d844b0a1d94235c3.png
+    - assets/images/vector (1).svg
+    - assets/images/vector (2).svg
+    - assets/images/vector (3).svg
+    - assets/images/vector (4).svg
+    - assets/images/vector (5).svg
+    - assets/images/vector (6).svg
+    - assets/images/vector (7).svg
+    - assets/images/vector (8).svg
+    - assets/images/vector (9).svg
+    - assets/images/vector (10).svg
+    - assets/images/vector (11).svg
+    - assets/images/vector (12).svg
+    - assets/images/vector (13).svg
+    - assets/images/vector (14).svg
+    - assets/images/vector (15).svg
+    - assets/images/vector (16).svg
+    - assets/images/vector (17).svg
+    - assets/images/vector (18).svg
+    - assets/images/vector (19).svg
+    - assets/images/vector.svg
+    - assets/images/Whatsappimage20240218at12172.png
+    - assets/images/Whatsappimage20240218at12192.png
+    - assets/images/Whatsappimage20240218at12202.png
+    - assets/images/Hipsterguypulluponhorizontalbaryoungmanstreetworkoutexercisemalepersonworkouthealthyactivelifestyleandsportcreativeconceptvectorepsillustration2hemwtd1.png
+    - assets/images/arrow4.svg
+    - assets/images/vector (20).svg
+    - assets/images/vector (21).svg
+    - assets/images/vector (22).svg
+    - assets/images/vector (23).svg
+    - assets/images/vector (24).svg
+    - assets/images/vector (25).svg
+    - assets/images/vector (26).svg
+    - assets/images/vector (27).svg
+    - assets/images/vector (28).svg
+    - assets/images/vector (29).svg
+    - assets/images/vector (30).svg
+    - assets/images/Girldoingsquatjumpexercise260nw17113228151.png
+    - assets/images/arrow4 (1).svg
+    - assets/images/vector (31).svg
+    - assets/images/vector (32).svg
+    - assets/images/vector (33).svg
+    - assets/images/vector (34).svg
+    - assets/images/vector (35).svg
+    - assets/images/vector (36).svg
+    - assets/images/vector (37).svg
+    - assets/images/vector (38).svg
+    - assets/images/vector (39).svg
+    - assets/images/vector (40).svg
+    - assets/images/vector (41).svg
+    - assets/images/360_f_443190446_muwlrqrwfen369fszxwb9wivf6uzszcn1.png
+    - assets/images/vector (42).svg
+    - assets/images/vector (43).svg
+    - assets/images/vector (44).svg
+    - assets/images/vector (45).svg
+    - assets/images/vector (46).svg
+    - assets/images/vector (47).svg
+    - assets/images/vector (48).svg
+    - assets/images/vector (49).svg
+    - assets/images/vector (50).svg
+    - assets/images/vector (51).svg
+    - assets/images/vector (52).svg
